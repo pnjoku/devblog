@@ -12,7 +12,7 @@ Example code snippet:
 
 {% highlight javascript %}
 console.log('test');
-// prints 'Test' to console.
+// prints 'test' to console.
 {% endhighlight %}
 
 
