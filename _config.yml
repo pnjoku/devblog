@@ -7,7 +7,7 @@
 
 # Site settings
 title: princeBlog
-email: developers@inmar.com
+email: princenjoku55@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a blog for developers at inmar. Add markdown posts to the repository!
 baseurl: "/devblog" # the subpath of your site, e.g. /blog
