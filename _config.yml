@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This is a blog for developers at inmar. Add markdown posts to the repository!
 baseurl: "/devblog" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: InmarInc
+twitter_username: blackWookie91
 github_username:  pnjoku
 
 # Build settings
