@@ -1,5 +1,5 @@
 # devblog
 
-Inmar Developer Blog
+Personal Developer Blog
 
 http://pnjoku.github.io/devblog/
