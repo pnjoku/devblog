@@ -4,4 +4,4 @@ title:  "Hey!"
 date:   2017-02-23 13:14:47 -0400
 categories: Intro
 ---
-This is my new blog because all my other websites stopped working. I am using this for to hilight side projects that are helping me grow my career. Read at your own risk! (PS - There will probably be spelling errors)
+This is my new blog because all my other websites stopped working. I am using this to highlight side projects that are helping me grow my career. Read at your own risk! (PS - There will probably be spelling errors)
